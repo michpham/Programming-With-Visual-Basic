@@ -1,0 +1,11 @@
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Donut Solution\Donut Solution\bin\Debug\Donut Solution.exe.config
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Donut Solution\Donut Solution\bin\Debug\Donut Solution.exe
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Donut Solution\Donut Solution\bin\Debug\Donut Solution.pdb
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Donut Solution\Donut Solution\bin\Debug\Donut Solution.xml
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Donut Solution\Donut Solution\obj\Debug\Donut Project.vbprojResolveAssemblyReference.cache
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Donut Solution\Donut Solution\obj\Debug\Donut_Solution.frmMain.resources
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Donut Solution\Donut Solution\obj\Debug\Donut_Solution.Resources.resources
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Donut Solution\Donut Solution\obj\Debug\Donut Project.vbproj.GenerateResource.Cache
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Donut Solution\Donut Solution\obj\Debug\Donut Solution.exe
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Donut Solution\Donut Solution\obj\Debug\Donut Solution.xml
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Donut Solution\Donut Solution\obj\Debug\Donut Solution.pdb

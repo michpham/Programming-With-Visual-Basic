@@ -1,0 +1,32 @@
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\obj\Debug\Gross_Project.frmMain.resources
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\obj\Debug\Gross_Project.Resources.resources
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\obj\Debug\Gross Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\bin\Debug\Gross Project.exe.config
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\bin\Debug\Gross Project.exe
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\bin\Debug\Gross Project.pdb
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\bin\Debug\Gross Project.xml
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\obj\Debug\Gross Project.exe
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\obj\Debug\Gross Project.xml
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\obj\Debug\Gross Project.pdb
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Gross Solution\Gross Project\bin\Debug\Gross Project.exe.config
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Gross Solution\Gross Project\bin\Debug\Gross Project.exe
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Gross Solution\Gross Project\bin\Debug\Gross Project.pdb
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Gross Solution\Gross Project\bin\Debug\Gross Project.xml
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Gross Solution\Gross Project\obj\Debug\Gross Project.vbprojResolveAssemblyReference.cache
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Gross Solution\Gross Project\obj\Debug\Gross_Project.frmMain.resources
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Gross Solution\Gross Project\obj\Debug\Gross_Project.Resources.resources
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Gross Solution\Gross Project\obj\Debug\Gross Project.vbproj.GenerateResource.Cache
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Gross Solution\Gross Project\obj\Debug\Gross Project.exe
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Gross Solution\Gross Project\obj\Debug\Gross Project.xml
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Gross Solution\Gross Project\obj\Debug\Gross Project.pdb
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Modified Gross Solution\Gross Project\bin\Debug\Gross Project.exe.config
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Modified Gross Solution\Gross Project\bin\Debug\Gross Project.exe
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Modified Gross Solution\Gross Project\bin\Debug\Gross Project.pdb
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Modified Gross Solution\Gross Project\bin\Debug\Gross Project.xml
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Modified Gross Solution\Gross Project\obj\Debug\Gross Project.vbprojResolveAssemblyReference.cache
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Modified Gross Solution\Gross Project\obj\Debug\Gross_Project.frmMain.resources
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Modified Gross Solution\Gross Project\obj\Debug\Gross_Project.Resources.resources
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Modified Gross Solution\Gross Project\obj\Debug\Gross Project.vbproj.GenerateResource.Cache
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Modified Gross Solution\Gross Project\obj\Debug\Gross Project.exe
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Modified Gross Solution\Gross Project\obj\Debug\Gross Project.xml
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Modified Gross Solution\Gross Project\obj\Debug\Gross Project.pdb
