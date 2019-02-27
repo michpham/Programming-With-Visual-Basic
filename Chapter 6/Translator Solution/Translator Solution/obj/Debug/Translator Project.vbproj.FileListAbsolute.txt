@@ -1,0 +1,12 @@
+c:\users\michael pham\source\repos\Translator Solution\Translator Solution\bin\Debug\Translator Solution.exe.config
+c:\users\michael pham\source\repos\Translator Solution\Translator Solution\bin\Debug\Translator Solution.exe
+c:\users\michael pham\source\repos\Translator Solution\Translator Solution\bin\Debug\Translator Solution.pdb
+c:\users\michael pham\source\repos\Translator Solution\Translator Solution\bin\Debug\Translator Solution.xml
+c:\users\michael pham\source\repos\Translator Solution\Translator Solution\obj\Debug\Translator Project.vbprojAssemblyReference.cache
+c:\users\michael pham\source\repos\Translator Solution\Translator Solution\obj\Debug\Translator_Solution.frmMain.resources
+c:\users\michael pham\source\repos\Translator Solution\Translator Solution\obj\Debug\Translator_Solution.Resources.resources
+c:\users\michael pham\source\repos\Translator Solution\Translator Solution\obj\Debug\Translator Project.vbproj.GenerateResource.cache
+c:\users\michael pham\source\repos\Translator Solution\Translator Solution\obj\Debug\Translator Project.vbproj.CoreCompileInputs.cache
+c:\users\michael pham\source\repos\Translator Solution\Translator Solution\obj\Debug\Translator Solution.exe
+c:\users\michael pham\source\repos\Translator Solution\Translator Solution\obj\Debug\Translator Solution.xml
+c:\users\michael pham\source\repos\Translator Solution\Translator Solution\obj\Debug\Translator Solution.pdb
