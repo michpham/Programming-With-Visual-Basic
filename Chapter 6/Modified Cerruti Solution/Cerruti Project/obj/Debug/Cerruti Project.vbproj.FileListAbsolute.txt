@@ -1,0 +1,22 @@
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.exe.config
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.exe
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.pdb
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.xml
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti_Project.frmMain.resources
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti_Project.Resources.resources
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.exe
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.xml
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.pdb
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.exe.config
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.exe
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.pdb
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.xml
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.vbprojResolveAssemblyReference.cache
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti_Project.frmMain.resources
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti_Project.Resources.resources
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.vbproj.GenerateResource.Cache
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.exe
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.xml
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.pdb

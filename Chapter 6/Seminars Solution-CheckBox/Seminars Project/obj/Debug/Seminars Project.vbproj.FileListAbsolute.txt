@@ -1,0 +1,22 @@
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars_Project.frmMain.resources
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars_Project.Resources.resources
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.exe.config
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.exe
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.pdb
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.xml
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.exe
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.xml
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.pdb
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.exe.config
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.exe
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.pdb
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.xml
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.vbprojResolveAssemblyReference.cache
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars_Project.frmMain.resources
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars_Project.Resources.resources
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.vbproj.GenerateResource.Cache
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.exe
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.xml
+T:\Zak Visual Basic Data Files 9781337102124\Chapter 6 Data Files\VB2017\Chap06\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.pdb
